@@ -1,0 +1,34 @@
+oL�...
+
+
+Muito simples o script.
+
+-----------------------------------------------------------------
+
+arquivo db.dat		 |> � o banco de dados 
+
+bkp.php  		 |> gera o backup de db.dat
+
+limpar__.php 		 |> limpa o db.dat 
+
+volta_backup.php 	 |> pega o db.backup e coloca no db.dat
+
+admin/index.php 	 |> formul�rio de envio, coloquei em uma pasta para ser protegida.
+
+css.css 		 |> css
+
+diret�rio /up 		 |> diret�rio das imagens
+
+exibe.php 		 |> exibe os itens do db.dat
+
+leia me.txt 		 |> � isto que voc� est� lendo
+
+-----------------------------------------------------------------
+
+
+
+
+Dica ... proteja a pasta admin com .htaccess, isso dispen�a um script de login
+
+
+Falta criar este sistema um admin que remova, edite etc...
