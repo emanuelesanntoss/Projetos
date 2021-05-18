@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<!-- Criado Por Paulo Junior | grupowebdesign.com -->
+<!-- Emanuele Santos | emanuelesanntoss@gmail.com -->
 <title>Envia Produto</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">

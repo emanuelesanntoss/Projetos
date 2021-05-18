@@ -1,13 +1,7 @@
-<!--Criado por Paulo Junior | grupowebdesign.com-->
 <!-- Para mudar a pasta de destino da imagem, autere "up/"-->
-<!-- Este Script é simples, e só aceita JPG pois não fiz condição que teste image/pjpg image/gif etc... -->
-<!-- Se você fizer uma versão melhorada disto, favor envie para divino_rf@hotmail.com -->
-
-<!-- Catálogo de Produtos PHP SDB (Sem Banco de dados) V 0.9 Estável mas nem tanto, maio/2006 copyleft -->
+<!-- Este Script ï¿½ simples, e sï¿½ aceita JPG pois nï¿½o fiz condiï¿½ï¿½o que teste image/pjpg image/gif etc... -->
 
 
-
-<!--Por favor, não retire estas Linhas ACIMA-->
 <?
 		$pedacos = explode("/",$form_url);
 		$num_pedacos = count($pedacos)-3;
