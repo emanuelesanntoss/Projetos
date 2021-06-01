@@ -1,6 +1,11 @@
+* {
+    font-family:Arial;
+}
+
 body {
     margin:0;
     padding:0;
+    padding-bottom: 300px;
 }
 header {
     display: flex;
@@ -16,11 +21,15 @@ width: 990px;
 
 .logo {
     display: flex;
-    align-items: center;
+    align-items:center;
 }
 .menu{
     display: flex;
     align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: capitalize;   
+      
 }
 nav ul,
 nav li{
@@ -79,7 +88,6 @@ nav a:hover {
     margin-top: 30px;
 }
 
-
 .banner_options {
     height: 210px;
     display: flex;
@@ -89,6 +97,7 @@ nav a:hover {
 .banner3 {
     flex:1;
     color: white;
+    padding:20px
 }
 .banner1{
     background-color: #39aae1;
@@ -99,6 +108,51 @@ nav a:hover {
 .banner3{
     background-color: #2b4c99;
 }
+.banner_title {
+    font-size: 21px;
+}
+.banner_desc {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner_options a {
+    display:inline-block;
+    border:1px solid #FFFFFF;
+    padding:5px;
+    color:#ffffff;
+    font-size:13px;
+    text-decoration: none;
+
+}
+#geral {
+    display: flex;
+    justify-content: center;
+}
+#geral section {
+    flex:2;
+
+}
+#geral aside {
+    flex:1;
+}
+.widget_title {
+    margin-top: 30px;
+    margin_bottom: 20px;
+}
+.widget_title_text {
+    color: #000000;
+    font-size: 21px;
+    font-weight: bold;
+}
+.widget_title_bar {
+    width: 50px;
+    height:2px;
+    background-color:#36a9e1;
+    margin-top: 10px;
+}
+
+
 
 
 
