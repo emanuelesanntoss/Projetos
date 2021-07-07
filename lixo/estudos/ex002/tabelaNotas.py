@@ -1,6 +1,5 @@
 # importar bibliotecas
 from prettytable import PrettyTable
-from prettytable import from_csv
 
 # Cria variavel e tabela
 myTable = PrettyTable(["Nome", "Turma", "Nota"])
